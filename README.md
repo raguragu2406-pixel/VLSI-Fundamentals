@@ -64,6 +64,7 @@ Understood the complete VLSI design flow.
 Designed and simulated basic logic gates.
 Implemented and verified the operation of Half Adder, Full Adder, Half Subtractor, and Full Subtractor circuits using Logisim.
 Improved practical knowledge of combinational logic design.
+
 ✅ Conclusion
 
 This task strengthened my understanding of VLSI concepts and digital circuit design by combining theoretical learning with practical implementation in Logisim. It provided hands-on experience in designing and testing fundamental combinational circuits.
